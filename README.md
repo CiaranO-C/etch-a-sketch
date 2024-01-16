@@ -26,7 +26,7 @@ Click here to play!
 
 The game will work on most modern browsers.
 
-Begin by selecting your drawing tool of choice on the left hand side of the screen. The proceed to start drawing by clicking and dragging your mouse across the canvas!
+Begin by selecting your drawing tool of choice on the left hand side of the screen. Then proceed to start drawing by clicking and dragging your mouse across the canvas!
 
 You will always know which tool you have selected as your choice will be highlighted in blue!
 
