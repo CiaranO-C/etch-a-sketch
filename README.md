@@ -22,7 +22,7 @@ This project is an implementation of the Etch-A-Sketch drawing game! Users can s
 
 ## How to play
 
-Click here to play!
+[Click here to play](https://ciarano-c.github.io/etch-a-sketch/)!
 
 The game will work on most modern browsers.
 
